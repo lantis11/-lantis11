@@ -1,4 +1,4 @@
-# -lantis11# Hi, I'm Valantis 👋
+# lantis11# Hi, I'm Valantis 👋
 
 🔐 Cybersecurity Enthusiast | Python & Linux
 
